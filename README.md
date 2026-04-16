@@ -6,7 +6,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado Técnico em Informática no IFC.
-- 🎓 Estudando Ciência da Computação na UDESC.
+- 🎓 Cursando Ciência da Computação na UDESC.
 - 🌱 Aprendendo mais sobre cybersecurity.
 
 ## Minhas Skills
